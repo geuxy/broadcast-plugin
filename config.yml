@@ -1,0 +1,6 @@
+prefix: "&7[&b&lZoulBroadcast&7] &r"
+usage-message: "&cUsage: /bc <message>."
+permission-message: "&cNo Permission."
+reload-message: "&aConfiguration Reloaded!"
+broadcast-permission: "zbc.broadcast"
+reload-permission: "zbc.reload"
